@@ -10,6 +10,10 @@ DevBucket Blogs is a responsive blog website designed to showcase blog posts wit
 - Dynamic avatars for authors using DiceBear API.
 - Placeholder content for further customization.
 
+## Preview
+
+![Preview Image](previewimage.png)
+
 ## Project Structure
 The project consists of the following main files:
 
