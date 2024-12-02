@@ -48,6 +48,6 @@ The project consists of the following main files:
 ## Credits
 - **Author Avatars**: [DiceBear Avatars](https://dicebear.com/)
 - **Sample Images**: [Unsplash](https://unsplash.com/)
-- **Developer**: [Vishwakarma Abhishek](@Abhishek200-1)
+- **Developer**: [Vishwakarma Abhishek](https://github.com/Abhishek200-1)
 
 Feel free to use and modify this project for personal or educational purposes. If you like it, a star on GitHub would be appreciated!
